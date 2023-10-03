@@ -9,8 +9,8 @@ class Contoh1 extends BaseController
     public function index()
     {
         echo "<h1>Perkenalan</h1>";
-        echo "Nama saya Kris Setiyadi
-              saya tinggal di bekasi";
+        echo "Nama Steve Alexander Imanuel 
+              Saya Tinggal di Golden City";
     }
 
     public function penjumlahan($n1 = 0, $n2 = 0) {
