@@ -24,5 +24,6 @@ class Web extends BaseController
         return view('latihan_wp/v_header', $data)
             . view('latihan_wp/v_about', $data)
             . view('latihan_wp/v_footer', $data);
+            
     }
 }

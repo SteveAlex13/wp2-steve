@@ -17,6 +17,6 @@
   <h4>Olah Raga Favorit</h4>
   <ul type="square">
     <li>Futsal</li>
-    <li>Lari</li>
+    <li>Game</li>
   </ul>
 </section>
