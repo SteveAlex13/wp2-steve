@@ -43,9 +43,7 @@ class Matakuliah extends BaseController
                 'sks' => $this->request->getPost('sks')
                 ];
                 return view('latihan_wp/view-data-matakuliah', $data);
-        }
-
-        
+        }  
     }
 
 }

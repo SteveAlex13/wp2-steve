@@ -10,7 +10,7 @@
       <form action=" <?= base_url('matakuliah/cetak'); ?>" method="post">
         <table>
           <tr>
-            <th colspan="3"> Form Input Data Mata Kuliah </th>
+            <th colspan="3"> Form Input data Mata Kuliah </th>
           </tr> 
           <tr>
             <td colspan="3">
